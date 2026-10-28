@@ -32,6 +32,7 @@ require (
 	k8s.io/apiserver v0.35.7
 	k8s.io/client-go v0.35.7
 	k8s.io/component-base v0.35.7
+	k8s.io/component-helpers v0.33.6
 	k8s.io/cri-api v0.35.6
 	k8s.io/cri-client v0.33.6
 	k8s.io/klog/v2 v2.130.1
@@ -108,7 +109,7 @@ require (
 	github.com/fxamacker/cbor/v2 v2.9.0 // indirect
 	github.com/getsentry/sentry-go v0.27.0 // indirect
 	github.com/go-ini/ini v1.67.0 // indirect
-	github.com/go-jose/go-jose/v4 v4.1.4 // indirect
+	github.com/go-jose/go-jose/v4 v4.1.6 // indirect
 	github.com/go-logr/stdr v1.2.3-0.20220714215716-96bad1d688c5 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
 	github.com/go-openapi/jsonpointer v0.21.1 // indirect
@@ -270,7 +271,6 @@ require (
 	k8s.io/apiextensions-apiserver v0.33.6 // indirect
 	k8s.io/cloud-provider v0.33.6 // indirect
 	k8s.io/cluster-bootstrap v0.0.0 // indirect
-	k8s.io/component-helpers v0.33.6 // indirect
 	k8s.io/controller-manager v0.32.2 // indirect
 	k8s.io/csi-translation-lib v0.0.0 // indirect
 	k8s.io/dynamic-resource-allocation v0.0.0 // indirect
